@@ -163,7 +163,7 @@ margin-top: -50px;
    text-align: center;
    margin-left: auto;
    margin-right: auto;
-   margin-top: -50px;
+   margin-top: -40px;
    color:purple;
   font-family: 'Scada', serif;
    font-size: 15px;
@@ -178,7 +178,7 @@ margin-top: -50px;
    margin-top: 25px;
    color:purple;
   font-family: 'Scada', serif;
-   font-size: 22px;
+   font-size: 15px;
    font-weight: bold;
    filter:opacity(100%);
  }
