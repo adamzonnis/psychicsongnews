@@ -193,6 +193,7 @@ margin-right: 15%;
 margin-top: -20px;
 
  }
+
  #lines2 {
    width: 100%;
    margin-left: 5px;
@@ -204,6 +205,11 @@ font-weight: bold;
    font-size: 23px;
    filter:opacity(80%);
  }
+
+ .eye {display: none;
+   margin-left:  px;
+ text-align: center;}
+  #lines2:hover .eye {display: inline; position: fixed;margin-left: -27px;margin-top: -13px;width:60px;height:60px;z-index: -1;}
  #header3 {
    display: block;
    text-align: center;
@@ -221,7 +227,7 @@ font-weight: bold;
    margin-left: auto;
    margin-right: auto;
    margin-top: -40px;
-   color:purple;
+   color:#4A235A;
   font-family: 'Pt Serif', serif;
    font-size: 20px;
    font-weight: bold;
@@ -233,7 +239,7 @@ font-weight: bold;
    margin-left: auto;
    margin-right: auto;
    margin-top: 25px;
-   color:purple;
+   color:#4A235A;
   font-family: 'Pt Serif', serif;
    font-size: 20px;
    font-weight: bold;
@@ -299,7 +305,7 @@ margin-top: 0px;
   margin-left: auto;
   margin-right: auto;
   margin-top: ;
-  color:purple;
+  color:#4A235A;
 font-family: 'Pt Serif', serif;
   font-size: 20px;
   font-weight: bold;
@@ -351,7 +357,7 @@ margin-top: 20px;
 margin-bottom: 5px;
 color:purple;
 font-weight: bold;
-font-family: 'Scada', serif;
+font-family: 'Pt Serif', serif;
 font-size: 20px;
 filter:opacity(100%);
 }
@@ -361,8 +367,8 @@ filter:opacity(100%);
   margin-left: auto;
   margin-right: auto;
   margin-top: 15px;
-  color:purple;
-font-family: 'Scada', serif;
+  color:#4A235A;
+font-family: 'Pt Serif', serif;
   font-size: 20px;
   font-weight: bold;
   filter:opacity(100%);
@@ -373,8 +379,8 @@ font-family: 'Scada', serif;
   margin-left: auto;
   margin-right: auto;
   margin-top: 0px;
-  color:purple;
-font-family: 'Scada', serif;
+  color:#4A235A;
+font-family: 'Pt Serif', serif;
   font-size: 20px;
   font-weight: bold;
   filter:opacity(100%);
@@ -394,7 +400,7 @@ font-family: 'Scada', serif;
 display: block;
 margin-left: auto;
 margin-right: auto;
-  color:purple;
+  color:#4A235A;
   width:80%;
 font-family: 'Scada', serif;
   font-size: 15px;
