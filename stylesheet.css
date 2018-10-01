@@ -407,14 +407,19 @@ font-family: 'Pt Serif', serif;
   margin-right: auto;
   border-radius: 100%;
 }
-
+#party {
+  width:70%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
 #form{
 display: block;
 margin-left: auto;
 margin-right: auto;
   color:#4A235A;
   width:80%;
-font-family: 'Scada', serif;
+font-family: 'Pt Serif', serif;
   font-size: 15px;
   font-weight: bold;
   filter:opacity(100%);
@@ -555,6 +560,11 @@ height:50%;
 
    }
    #faqs {
+
+     font-size: 15px;
+
+   }
+   #contact {
 
      font-size: 15px;
 
